@@ -14,3 +14,6 @@
  <img src = "https://img.shields/badge/JavaScript-F7Df1E?stile-for-the-badge&logo=html5&logoColor=black">
 </div>
 
+<div>
+ <img src = "readme.jpg"
+</div>
